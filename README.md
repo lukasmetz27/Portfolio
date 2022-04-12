@@ -7,3 +7,6 @@ Steps of this project:
 * Data Scaling
 * Modeling 
 * Evaluating
+
+
+# Project 2:
