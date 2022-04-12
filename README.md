@@ -1,10 +1,9 @@
-# Portfolio
-Data Science Portfolio
 
-
-
-# Linear Regression Price Prediction Model - Kaggle 
-* Data Exploration
+# Project 1:
+## House Prices - Advanced Regression Techniques - Kaggle
+Steps of this project:
+* Data Exploration / Data Understanding
+** Data Visualization
 * Data Prepreocessing
 * Data Scaling
 * Modeling 
