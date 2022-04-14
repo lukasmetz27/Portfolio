@@ -1,6 +1,6 @@
 
 # Project 1:
-## [House Prices - Advanced Regression Techniques - Kaggle](https://github.com/lukasmetz27/Portfolio/blob/main/images/Unbenannt.PNG)
+## [House Prices - Advanced Regression Techniques - Kaggle](https://www.deepl.com/translator#de/en/ich%20habe%20mich%20an%20dem%20Modell%20orientiert)
 
 ![](https://github.com/lukasmetz27/Portfolio/blob/main/images/Unbenannt.PNG)
 
