@@ -14,8 +14,8 @@ Steps of this project:
 * Modeling 
 * Evaluating
 
-Programming Language: Python
-Frameworks: Pandas, Matplotlib, Seaborn, Missingno, Scikit-learn
-Jupyter Notebook
+* Programming Language: Python
+* Frameworks: Pandas, Matplotlib, Seaborn, Missingno, Scikit-learn
+* Jupyter Notebook
 
 # Project 2:
