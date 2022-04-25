@@ -6,6 +6,7 @@
 
 ### Goal
 * Evaluation of different Regression Models to predict the house prices 
+* Chose and finetune the model
 
 ### Steps and Structure
 CRISP-DM Model:
