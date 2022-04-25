@@ -6,6 +6,7 @@
 
 ### Goal
 * Evaluation of different Regression Models to predict the house prices 
+** use individual models and stacking
 * Chose and finetune the model
 
 ### Steps and Structure
