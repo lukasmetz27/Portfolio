@@ -25,3 +25,17 @@ CRISP-DM Model:
 
 
 # Project 2:
+## [Crawl the ImmoNet Website and store the real estate data into a MySQL table](https://github.com/lukasmetz27/CrawlerImmoNet)
+
+![](/images/data.jpg)
+
+### Goal 
+* Crawl real estate data from website "ImmoNet"
+* Collect real-estate data like: Price, Square Meter, Number of Rooms, City, Date
+* Store the data in relational database (MySql)
+* After collecting the data, I want to investigate, manipulate and scale the data to predict real estate prices
+
+### Outlook
+* Crawl further real estate sites like ImmoScout, Immowelt
+* Store more data
+* Predict the price with Machine Learnings methods
