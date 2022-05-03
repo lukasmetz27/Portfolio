@@ -9,20 +9,14 @@
 ** use individual models and stacking
 * Chose and finetune the model
 
-### Steps and Structure
-CRISP-DM Model:
-1. Business Understanding
-2. Data Exploration
-3. Data Preprocessing
-4. Modeling 
-5. Evaluation
-6. (Deployment)
-
-### Code and Resources Used
+### Code and Resources used
 * Python
 * Packages: Pandas, Numpy, Missingno, Matplotlib, Seaborn, Scikit-learn
 * Data: [Kaggle Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 
+### Outlook
+* combine the dataset with another dataset -> getting more precise predictions
+* Building a Neuronal Network 
 
 # Project 2:
 ## [Crawl the ImmoNet Website and store the real estate data into a MySQL table](https://github.com/lukasmetz27/CrawlerImmoNet)
@@ -34,6 +28,11 @@ CRISP-DM Model:
 * Collect real-estate data like: Price, Square Meter, Number of Rooms, City, Date
 * Store the data in relational database (MySql)
 * After collecting the data, I want to investigate, manipulate and scale the data to predict real estate prices
+
+### Code and Resources use
+* Python
+* Packages: Scrapy
+* Data: [ImmoNet](https://www.immonet.de/)
 
 ### Outlook
 * Crawl further real estate sites like ImmoScout, Immowelt
