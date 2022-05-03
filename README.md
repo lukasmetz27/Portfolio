@@ -35,6 +35,7 @@
 * Data: [ImmoNet](https://www.immonet.de/)
 
 ### Outlook
-* Crawl further real estate sites like ImmoScout, Immowelt
+* Install the crawler at a Raspberry Pi and crawl data once a day
+*  Crawl further real estate sites like ImmoScout, Immowelt
 * Store more data
 * Predict the price with Machine Learnings methods
