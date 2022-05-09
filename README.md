@@ -59,3 +59,20 @@
 * **Programming Language:** Python
 * **Packages:** Pandas, Numpy, Matplotlib, Missingno, Sklearn
 * **Data:** [Kaggle Dataset](https://www.kaggle.com/competitions/titanic/data)
+
+</br>
+</br>
+
+# Project 4: 
+## [US Adult Income](https://github.com/lukasmetz27/USAAdultIncome)
+
+![]()
+
+### Goal
+* 
+* Evaluate with different models for example: Decision Tree Classifier, Gaussian Naive Bayes 
+
+### Code and Resources used 
+* **Programming Language:** Python
+* **Packages:** Pandas, Numpy, Matplotlib, Missingno, Sklearn
+* **Data:** [Kaggle Dataset](https://www.kaggle.com/datasets/johnolafenwa/us-census-data)
