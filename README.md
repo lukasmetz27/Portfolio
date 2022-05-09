@@ -10,15 +10,16 @@
 * Chose and finetune the model
 
 ### Code and Resources used
-* Python
-* Packages: Pandas, Numpy, Missingno, Matplotlib, Seaborn, Scikit-learn
-* Data: [Kaggle Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+* **Programming Language:** Python
+* **Packages**: Pandas, Numpy, Missingno, Matplotlib, Seaborn, Scikit-learn
+* **Data**: [K**aggle Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 
 ### Outlook
 * combine the dataset with another dataset -> getting more precise predictions
 * Building a Neuronal Network 
 
-
+</br>
+</br>
 
 # Project 2:
 ## [Crawl the ImmoNet Website and store the real estate data into a MySQL table](https://github.com/lukasmetz27/CrawlerImmoNet)
@@ -32,9 +33,9 @@
 * After collecting the data, I want to investigate, manipulate and scale the data to predict real estate prices
 
 ### Code and Resources used
-* Python
-* Packages: Scrapy
-* Data: [ImmoNet](https://www.immonet.de/)
+* **Programming Language:** Python
+* **Packages:** Scrapy
+* **Data:** [ImmoNet](https://www.immonet.de/)
 
 ### Outlook
 * Set up the crawler on a Raspberry Pi and crawl data once a day
@@ -42,6 +43,8 @@
 * Store more data
 * Predict the price with Machine Learnings methods
 
+</br>
+</br>
 
 # Project 3: 
 ## [Titanic Survival Prediction](https://github.com/lukasmetz27/Titanic)
